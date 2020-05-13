@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{AmericanWindEnergyAssociation2020}
+{American Wind Energy Association}: {Wind Energy Facts at a Glance} (2020),
+  \url{http://www.awea.org/Resources/Content.aspx?ItemNumber=5059}
+
+\bibitem{osti_1097911}
+Bird, L., Milligan, M., Lew, D.: Integrating variable renewable energy:
+  Challenges and solutions . \doi{10.2172/1097911}
+
+\bibitem{noaa2012}
+of~Commerce, U.D., Oceanic, N., Administration, A.: What is lidar (Oct 2012),
+  \url{https://oceanservice.noaa.gov/facts/lidar.html}
+
+\bibitem{Ding2019}
+Ding, Y.: {Data Science for Wind Energy}. Chapman and Hall/CRC (jun 2019).
+  \doi{10.1201/9780429490972}
+
+\bibitem{DOE}
+DOE: {A2e: BUOY}, \url{https://a2e.energy.gov/projects/buoy}
+
+\bibitem{Energy2020}
+Energy, D.o.E.O.o.E.E., Renewable: {WINDExchange: U.S. Installed and Potential
+  Wind Power Capacity and Generation} (2020),
+  \url{https://windexchange.energy.gov/maps-data/321}
+
+\bibitem{opendatahandbook}
+Foundation, O.K.: Open data handbook,
+  \url{http://opendatahandbook.org/guide/en/}
+
+\bibitem{Moore}
+Moore, D.J.: {Offshore wind data.},
+  \url{https://orsted.com/en/Our-business/Offshore-wind/Wind-Data}
+
+\bibitem{Pulver2016}
+{Pulver}, A., {Lyu}, S.: {LSTM with Working Memory}. arXiv e-prints
+  arXiv:1605.01988 (May 2016)
+
+\end{thebibliography}

@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{book}
+Babington, P., Zimm, J.: The Title of the Book. The name of the publisher, The
+  address of the publisher, 3 edn. (7 1993), an optional note
+
+\bibitem{conference}
+Draper, P., Flemming, I., Einstein, A., Turing, A.: The title of the conference
+  paper. In: editor if there~is one, T. (ed.) The Title of the Conference
+  Proceedings Book. p.~213. The organization, The publisher, The address of the
+  publisher (7 1993), an optional note
+
+\bibitem{inbook}
+Eston, P.: The title of the work, 5, vol.~4, chap.~8, pp. 201--213. The name of
+  the publisher, The address of the publisher, 3 edn. (7 1993), an optional
+  note
+
+\bibitem{article1}
+Freely, I.: Yellow river. The Journal of Small Papers  \textbf{-1} (1997), to
+  appear
+
+\bibitem{article2}
+Jass, H.: Phases of the moon. The Journal of Big Papers  \textbf{4}(2),
+  201--213 (7 2001), an optional note
+
+\end{thebibliography}
